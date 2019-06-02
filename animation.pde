@@ -2,7 +2,7 @@ class AnimationController{
   //Animate gameObject or not
   public boolean animate = false;
   //Set default animation if stoped animation
-  public boolean defaultAnim = true;
+  public boolean defaultAnim = false;
   
   private float milliseconds;
   
